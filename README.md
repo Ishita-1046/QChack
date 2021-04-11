@@ -3,7 +3,7 @@
 ## This is the project submission made for Qchack 2021. 
 
 
-## Project title: 
+## Project Title: 
 Demonstrating Quantum Computing principals by Classifying Wine Data with QSVM.
 
 ## Resources:
