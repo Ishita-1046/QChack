@@ -1,6 +1,6 @@
-# QChack
+# Qchack
 
-## This is the project submission made for Qchack 2021. 
+### This is the project submission made for Qchack 2021. 
 
 
 ## Project Title: 
